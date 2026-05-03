@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل الحب في عينيها أسرار
+> أنا العاشق وفي قلبي نار
+> أبحث عن طيفها في كل مدار
+> تأخذني الأشواق إلى هذا المسار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
