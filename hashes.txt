@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Asrar El Mady
+
+This log tracks the cryptographic history and versioning for the song **Asrar El Mady** (asrar-el-mady).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:42:08.558406 | `v1` | `d0cea2db5ace8e4076fc59381de775e877629dd9585a691bc9d563f6d6f1e978` | `82ed5ce0fd7cbe1bb0194c87e886ef163c6dc8de339a7f0a6b46e65b8cc44ec1` | `2026-05-08_asrar-el-mady-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
